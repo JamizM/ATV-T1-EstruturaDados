@@ -1,0 +1,11 @@
+
+.vscode/*
+!.vscode/extensions.json
+*.sw?
+out
+.DS_Store
+*.ntvs*
+*.sln
+*.suo
+*.njsproj
+.idea
